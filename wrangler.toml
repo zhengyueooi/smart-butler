@@ -1,3 +1,8 @@
+name = "smart-butler"
+account_id = "ca8c79a8df5af4abf20f39471ebfdc10"
+workers_dev = true
+main = "src/index.js"
+compatibility_date = "2025-01-19"
+
 [build]
-command = "npm run pages:build"
-root = "." 
+command = "npx @cloudflare/next-on-pages"

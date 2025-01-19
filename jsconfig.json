@@ -3,5 +3,6 @@
     "paths": {
       "@/*": ["./src/*"]
     }
-  }
+  },
+  "githubToken": "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",
 }
