@@ -1,0 +1,21 @@
+.promo {
+    background: linear-gradient(to right, #1f1f99, #0056d2);
+    color: white;
+    padding: 60px 5%;
+    text-align: center;
+  }
+  
+  .promo span {
+    color: #ffcb05;
+  }
+  
+  .btn {
+    background: white;
+    color: #0056d2;
+    padding: 12px 24px;
+    border-radius: 6px;
+    display: inline-block;
+    margin-top: 20px;
+    font-weight: bold;
+  }
+  

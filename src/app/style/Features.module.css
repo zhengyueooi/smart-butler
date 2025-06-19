@@ -1,0 +1,23 @@
+.features {
+    padding: 60px 5%;
+    background: #f9fbfe;
+  }
+  
+  .feature {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 40px;
+  }
+  
+  .text {
+    flex: 1;
+  }
+  
+  .image {
+    width: 300px;
+    border-radius: 8px;
+    margin-left: 20px;
+  }
+  
