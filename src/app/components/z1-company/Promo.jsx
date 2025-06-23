@@ -1,4 +1,4 @@
-import styles from '../style/Promo.module.css';
+import styles from '../../style/z1-company/Promo.module.css';
 
 export default function Promo() {
   return (

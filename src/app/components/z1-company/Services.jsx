@@ -1,4 +1,4 @@
-import styles from '../style/Services.module.css';
+import styles from '../../style/z1-company/Services.module.css';
 
 const services = [
   { title: "Exterior Wash", description: "Li Europan lingues es membres del sam familie." },

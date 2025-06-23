@@ -1,4 +1,4 @@
-import styles from '../style/Features.module.css';
+import styles from '../../style/z1-company/Features.module.css';
 
 const features = [
   {
