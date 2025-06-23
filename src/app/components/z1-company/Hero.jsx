@@ -1,4 +1,4 @@
-import styles from '../style/Hero.module.css';
+import styles from '../../style/z1-company/Hero.module.css';
 
 export default function Hero() {
   return (
